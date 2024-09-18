@@ -1,3 +1,3 @@
-Copyright  © Cayden R. Lincke. All rights reserved.
+Copyright  © 2024 Cayden R. Lincke. All rights reserved.
 
 Content from this mod may not be mirrored, borrowed, or altered without explicit permission.
